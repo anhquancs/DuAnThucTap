@@ -2,3 +2,10 @@
     overflow: hidden; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.250);
 }
+.height-300PX {
+    height: 500px;
+}
+
+.backgroundclor{
+    background-color: rgba(54, 35, 35, 1);    
+}
